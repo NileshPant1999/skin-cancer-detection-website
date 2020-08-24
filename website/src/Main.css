@@ -1,0 +1,55 @@
+.main_body{
+    display: flex;
+    background-image: url('web.jpg');
+    width: 100%;
+    height: 790px;
+}
+
+.main__text{
+    padding-top: 150px;
+    padding-left: 25px;
+    font-size: 50px;
+    color: rgb(24, 51, 75);
+    margin-bottom: 10px;
+}
+p{
+    color: rgb(24, 51, 75);
+}
+
+.main__para{
+    width: 39%;
+    margin-left: 25px;
+    padding-top: 10px;
+    font-size: 25px;
+}
+.main__button{
+    margin-left: 25px;
+    padding-top: 20px;
+}
+.button1{
+    font-size: 20px;
+    padding:5px 10px 5px 10px;
+    border-radius: 20px;
+    font-weight: 500;
+    background-color: rgb(8, 134, 151, 0.6);
+}
+.button1:hover{
+  background-color: rgb(14, 144, 196);   
+  color: white;
+  cursor: pointer;
+}
+
+.projects{
+    margin-top: 190px;
+    margin-right: 80px;
+    font-size: 35px;
+}
+
+.main__right{
+    width: 30%;
+}
+
+.projects > li {
+	padding: 10px;
+
+}
