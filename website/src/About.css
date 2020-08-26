@@ -1,0 +1,10 @@
+
+.about__heading{
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 30px;
+    color: rgb(24, 51, 75);
+    background-color: rgb(190, 224, 238)
+}

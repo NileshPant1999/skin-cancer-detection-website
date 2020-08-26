@@ -3,7 +3,7 @@ import "./Main.css"
 
 function Main() {
 	return (
-		<div className="main_body">
+		<header className="main_body">
 			<div className="main__left">
 				<div className="main__heading">
 					<h1 class="main__text">MedaCure AI</h1>
@@ -17,7 +17,8 @@ function Main() {
 					<button className="button1" type="button">Contact Us</button>
 				</div>
 			</div>
-		</div>
+			<div className='banner__fadeBottom' />
+		</header>
 	)
 }
 
