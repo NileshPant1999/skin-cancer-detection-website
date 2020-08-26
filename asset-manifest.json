@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/skin-cancer-detection-website/static/css/main.8ea7e965.chunk.css",
+    "main.js": "/skin-cancer-detection-website/static/js/main.7fc96622.chunk.js",
+    "main.js.map": "/skin-cancer-detection-website/static/js/main.7fc96622.chunk.js.map",
+    "runtime-main.js": "/skin-cancer-detection-website/static/js/runtime-main.5c7b4a7d.js",
+    "runtime-main.js.map": "/skin-cancer-detection-website/static/js/runtime-main.5c7b4a7d.js.map",
+    "static/js/2.deffb3e9.chunk.js": "/skin-cancer-detection-website/static/js/2.deffb3e9.chunk.js",
+    "static/js/2.deffb3e9.chunk.js.map": "/skin-cancer-detection-website/static/js/2.deffb3e9.chunk.js.map",
+    "index.html": "/skin-cancer-detection-website/index.html",
+    "precache-manifest.f2e0bb8154a5cbbdea85685b943ad1dc.js": "/skin-cancer-detection-website/precache-manifest.f2e0bb8154a5cbbdea85685b943ad1dc.js",
+    "service-worker.js": "/skin-cancer-detection-website/service-worker.js",
+    "static/css/main.8ea7e965.chunk.css.map": "/skin-cancer-detection-website/static/css/main.8ea7e965.chunk.css.map",
+    "static/js/2.deffb3e9.chunk.js.LICENSE.txt": "/skin-cancer-detection-website/static/js/2.deffb3e9.chunk.js.LICENSE.txt",
+    "static/media/Main.css": "/skin-cancer-detection-website/static/media/web.36effbef.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c7b4a7d.js",
+    "static/js/2.deffb3e9.chunk.js",
+    "static/css/main.8ea7e965.chunk.css",
+    "static/js/main.7fc96622.chunk.js"
+  ]
+}
